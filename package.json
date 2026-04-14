@@ -2,7 +2,7 @@
   "name": "aquino-final-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/crldhi/Aquino-Final_Portfolio",
+  "homepage": "https://crldhi.github.io/Aquino-Final_Portfolio",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
