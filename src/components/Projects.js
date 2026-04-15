@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const projects = [
   { id: 1, title: 'Project One', description: 'A web app built with React.', image: '/AquinoC-Final_Portfolio/images/project1.jpg' },
   { id: 2, title: 'Project Two', description: 'A responsive landing page.', image: '/AquinoC-Final_Portfolio/images/project2.jpg' },
-  { id: 3, title: 'Project Three', description: 'A JavaScript mini project.', image: '/AquinoC-Final_Portfolio/images/project3.jpg' },
+  { id: 3, title: 'Project Three', description: 'A Certificate of having 300 hours of coding in FreeCodeCamp.', image: '/AquinoC-Final_Portfolio/images/project3.jpg' },
   { id: 4, title: 'Unrendered Sketch', description: 'A computer-made sketch design created as a draft for a web layout concept.', image: '/AquinoC-Final_Portfolio/images/project4.jpg' },
   { id: 5, title: 'Rendered Design', description: 'The fully rendered version of my sketch, brought to life with colors and details.', image: '/AquinoC-Final_Portfolio/images/project5.jpg' },
   { id: 6, title: 'Gym Survey Form', description: 'A gym membership survey form built using HTML and CSS with a clean and structured layout.', image: '/AquinoC-Final_Portfolio/images/project6.jpg' },
