@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AquinoC-Final_Portfolio/static/css/main.949ecd24.css",
-    "main.js": "/AquinoC-Final_Portfolio/static/js/main.9be0921d.js",
+    "main.js": "/AquinoC-Final_Portfolio/static/js/main.dacd6299.js",
     "index.html": "/AquinoC-Final_Portfolio/index.html",
     "main.949ecd24.css.map": "/AquinoC-Final_Portfolio/static/css/main.949ecd24.css.map",
-    "main.9be0921d.js.map": "/AquinoC-Final_Portfolio/static/js/main.9be0921d.js.map"
+    "main.dacd6299.js.map": "/AquinoC-Final_Portfolio/static/js/main.dacd6299.js.map"
   },
   "entrypoints": [
     "static/css/main.949ecd24.css",
-    "static/js/main.9be0921d.js"
+    "static/js/main.dacd6299.js"
   ]
 }
