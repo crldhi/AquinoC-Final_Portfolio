@@ -13,7 +13,7 @@ function App() {
     <div className="bg-gray-50 text-gray-900 font-sans">
       <header className="text-center py-10 bg-blue-500 text-white">
         <img
-          src="/images/profile.jpg"
+          src={process.env.PUBLIC_URL + "/images/profile.jpg"}
           alt="Profile"
           className="w-28 h-28 rounded-full mx-auto mb-4 border-4 border-white object-cover"
         />
