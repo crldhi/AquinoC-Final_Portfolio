@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aquino-Final_Portfolio/static/css/main.949ecd24.css",
+    "main.js": "/Aquino-Final_Portfolio/static/js/main.b4035e03.js",
+    "index.html": "/Aquino-Final_Portfolio/index.html",
+    "main.949ecd24.css.map": "/Aquino-Final_Portfolio/static/css/main.949ecd24.css.map",
+    "main.b4035e03.js.map": "/Aquino-Final_Portfolio/static/js/main.b4035e03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.949ecd24.css",
+    "static/js/main.b4035e03.js"
+  ]
+}
